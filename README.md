@@ -1,4 +1,4 @@
-# ProjectileThrowing
+# ProjectileThrowing - Задача: Чемпионат по метанию лепешек
 
 Task to determine the maximum possible position occupied by Vasily in the projectile throwing competition.
 
